@@ -5,7 +5,7 @@ permalink: /main/
 ---
 
 # My Project:
-Hello
+Hello, my name is Dmitry and my personal project is going to be about building a computer
 
 # Commands to upload:
 * git add -A
