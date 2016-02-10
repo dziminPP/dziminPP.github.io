@@ -18,3 +18,24 @@ This project is about knowledge and applying the knowledge to real life situatio
 <a href="https://docs.google.com/document/d/1Q5sc9nASeDjAiL0NYgsWqgcm7UP-VyCEq-u_ditCe9M/edit">Planning</a>
 <br><br>
 <img src="/images/swag.jpg">
+
+#Evaluating Your Product
+
+Finish the Personal Computer Desktop
+Be able to plan out how to build Future Computers
+Test if the computer can do basic functionality at low CPU usage
+Test computers maximum output with a Graphic program while being able to run smoothly
+Run the computer at maximum output until is cannot handle it any more
+
+
+Use this space to:
+
+Define the criteria of success for your product
+Evaluate your product on a scale of 0-7 against your criteria
+5 Aspects to Consider
+
+Criterion 1
+*To be able to grow as a Global Citizen through Applying learning in a real-world context and Developing intellectual rigour in real life situation
+*To be able to apply my Creativity and Curiosity to my project and take Initiative over building
+*To increase and explore my love of learning for the subject that I find Interesting and fun to know and be apart of.
+Criterion 2
