@@ -110,10 +110,13 @@ This project is about knowledge and applying the knowledge to real life situatio
 
 <img src="/images/case.jpg">
 <br><br>
-The manual for the Desktop case - Fractal Design Define R4
+The manual for the Desktop case - Fractal Design Define R4 - how it is organized
 <img src="/images/case_diagram.jpg">
 
-#Evaluating Your Product
+* After reading and inspecting the case it was time to put the motherboard into the computer - foundation for all the other parts like a foundation for a building.
+<img src="/images/motherboard.jpg">
+
+# Evaluating Your Product
 
 Finish the Personal Computer Desktop
 Be able to plan out how to build Future Computers
@@ -129,7 +132,9 @@ Evaluate your product on a scale of 0-7 against your criteria
 5 Aspects to Consider
 
 Criterion 1
-*To be able to grow as a Global Citizen through Applying learning in a real-world context and Developing intellectual rigour in real life situation
-*To be able to apply my Creativity and Curiosity to my project and take Initiative over building
-*To increase and explore my love of learning for the subject that I find Interesting and fun to know and be apart of.
+
+* To be able to grow as a Global Citizen through Applying learning in a real-world context and Developing intellectual rigour in real life situation
+* To be able to apply my Creativity and Curiosity to my project and take Initiative over building
+* To increase and explore my love of learning for the subject that I find Interesting and fun to know and be apart of.
+
 Criterion 2
