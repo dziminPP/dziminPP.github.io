@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Personal Project
+title: Planning
 permalink: /main/
 ---
 
@@ -179,7 +179,7 @@ turned out to be quite fun and intriguing
 <img src="/images/wire_4.jpg">
 <img src="/images/wire_3.jpg">
 
-* End: The next thing to do is to enjoy your new creation.
+* End: The next thing to do is to enjoy my new creation.
 
 # Evaluating Your Product
 
@@ -198,18 +198,50 @@ Evaluate your product on a scale of 0-7 against your criteria
 
 Criterion 1
 
-* To be able to grow as a Global Citizen through Applying learning in a real-world context and Developing intellectual rigour in real life situation
-* To be able to apply my Creativity and Curiosity to my project and take Initiative over building
+* To be able to grow as a Global Citizen through Applying learning in a real-world context and Developing intellectual rigour in real life situation.
+* To be able to apply my Creativity and Curiosity to my project and take Initiative over building.
 * To increase and explore my love of learning for the subject that I find Interesting and fun to know and be apart of.
+<br><br>
+Score: 6
+<br>
+more Initiative could have been taken to build the computer but when started the Initiative did come. Love of learning was the biggest breakthrough as it helped me to understand and have fun making a computer.
 
 Criterion 2
 
-* To Understand what how a computer works, how it communicates with its components
-* Have the knowledge of most to all computer components and why they are need for the computer to work
-* To be able to effectively construct and plan any future computer builds with more confidence, less error and at a faster speed
+* To Understand what how a computer works, how it communicates with its components.
+* Have the knowledge of most to all computer components and why they are need for the computer to work.
+* To be able to effectively construct and plan any future computer builds with more confidence, less error and at a faster speed.
+<br><br>
+Score: 6
+<br>
+There is still a lot of knowledge about how computers work but there is also a lot of it to take it but there is a basic and a more developed understanding of computers and how it communicates. Additionally I am able to effectively custruct and plan any future computer builds.
 
 Criterion 3
 
-* To see if the computer is running properly
-* To identify any problems and to be able to fix them
-* To run a high demanding program at 60 frames per second and maintain good quiality 
+* To see if the computer is running properly.
+* To identify any problems and to be able to fix them.
+* To run a high demanding program at 60 frames per second and maintain good quality.
+<br><br>
+Score: 7
+<br>
+The computer haw passed through all the tests and is running very smoothly and all the points have been met the requirements.
+
+Criterion 4
+
+* To have the wiring be clean and tidy, the wires have to run through the back panel of the motherboard.
+* To be able to add additional parts without any additional risk to the computer or to rewire the computer.
+* To make sure all ports and are working correctly.
+<br><br>
+Score: 6
+<br>
+The Wiring could be cleaner as it takes some effort to close the case, at least one of the side panels, then anticipated but all ports and working correctly and adding additional components should not be that tedious as most of the wiring is correct just not tidy.
+
+Criterion 5
+
+* The basic software has been installed to be able to start up the computer in BIOS or low graphics
+* The install all necessary drives into the computer and to update them regularly
+* To install further software such as google Chrome, CPUD, etc...
+<br><br>
+Score: 7
+<br>
+All the necessary and luxury software has been installed.
